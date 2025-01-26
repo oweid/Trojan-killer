@@ -18,7 +18,7 @@
 
 ## License
 
-[GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/XTLS/Trojan-killer/blob/main/LICENSE)
+[MPL 2.0](https://github.com/XTLS/Trojan-killer/blob/main/LICENSE)
 
 ## Compilation
 
